@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Skilled Action and Memory Lab from the University of Birmingham
+We are the Skilled Action and Memory Lab based at the Centre for Human Brain Health (CHBH) at the University of Birmingham.
 
 A countless number of action sequences are retrieved and performed daily from memory for tool use, speech, typing and handwriting, athletic and musical performance. How does the human brain enable us to encode, retrieve and control these skills? What changes in neural signalling and informational organisation underlie disorders or sequence learning and organisation, such as developmental coordination disorder (DCD)/ dyspraxia, stroke and Parkinson's Disease?
 
